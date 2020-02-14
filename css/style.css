@@ -137,6 +137,7 @@ Keyframes for animation*/
 .gallery{
   display: flex;
   flex-wrap: wrap;
+  align-self: stretch;
   justify-content: center;
   min-height: 600px;
 }
